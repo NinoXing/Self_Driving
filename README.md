@@ -2,7 +2,7 @@ Q:How to try this self driving model?
 ----
 1. You may download the Udacity simulater Version 1 from https://github.com/udacity/self-driving-car-sim.<br> 
 2. Download drive.py and model.h5 which is a Nvidia model I have already trained.<br> 
-3. Before running drive.py, make sure you have all the package need with python3 version.<br> 
+3. Before running drive.py, make sure you have all the package need with python3 version(I recommend you create a new environment to do this.<br> 
 4. Run drive.py in the terminal, then open the simulater and choose 800*600 resolution with fastest graphics quality<br>
 5. Run Autonomous Mode
    
