@@ -11,7 +11,7 @@ Q:What if I want to train my own model by creating my own data?
 1. In the simulator, choose Training Mode.
 2. Try to use the arrows on the keyboard to control the vehicle. When you are ready, click RECORD on top right and your driving behaviour will be recorded as data in your PC.
 3. Upload your data to your GitHub.
-4. Download Behavioural Cloning.ipynb, open it in Google colab, change the dir path to your own GitHub, and don't forget to use GPU when you run the code.
+4. Download Behavioural_Cloning.ipynb, open it in Google colab, change the dir path to your own GitHub, and don't forget to use GPU when you run the code.
 5. Then you have your own model~
 
 Several recommendation about creating training data
